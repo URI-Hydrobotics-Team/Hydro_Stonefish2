@@ -1,0 +1,13 @@
+/home/faos/tadpole/build/stonefish_ros2/rosidl_adapter/stonefish_ros2:msg/Int32Stamped.idl
+/home/faos/tadpole/build/stonefish_ros2/rosidl_adapter/stonefish_ros2:msg/BeaconInfo.idl
+/home/faos/tadpole/build/stonefish_ros2/rosidl_adapter/stonefish_ros2:msg/NEDPose.idl
+/home/faos/tadpole/build/stonefish_ros2/rosidl_adapter/stonefish_ros2:msg/INS.idl
+/home/faos/tadpole/build/stonefish_ros2/rosidl_adapter/stonefish_ros2:msg/DVLBeam.idl
+/home/faos/tadpole/build/stonefish_ros2/rosidl_adapter/stonefish_ros2:msg/DVL.idl
+/home/faos/tadpole/build/stonefish_ros2/rosidl_adapter/stonefish_ros2:msg/ThrusterState.idl
+/home/faos/tadpole/build/stonefish_ros2/rosidl_adapter/stonefish_ros2:msg/DebugPhysics.idl
+/home/faos/tadpole/build/stonefish_ros2/rosidl_adapter/stonefish_ros2:msg/Event.idl
+/home/faos/tadpole/build/stonefish_ros2/rosidl_adapter/stonefish_ros2:msg/EventArray.idl
+/home/faos/tadpole/build/stonefish_ros2/rosidl_adapter/stonefish_ros2:srv/SonarSettings.idl
+/home/faos/tadpole/build/stonefish_ros2/rosidl_adapter/stonefish_ros2:srv/SonarSettings2.idl
+/home/faos/tadpole/build/stonefish_ros2/rosidl_adapter/stonefish_ros2:srv/Respawn.idl

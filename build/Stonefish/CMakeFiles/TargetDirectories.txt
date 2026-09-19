@@ -1,0 +1,7 @@
+/home/faos/tadpole/build/Stonefish/CMakeFiles/Stonefish.dir
+/home/faos/tadpole/build/Stonefish/CMakeFiles/edit_cache.dir
+/home/faos/tadpole/build/Stonefish/CMakeFiles/rebuild_cache.dir
+/home/faos/tadpole/build/Stonefish/CMakeFiles/list_install_components.dir
+/home/faos/tadpole/build/Stonefish/CMakeFiles/install.dir
+/home/faos/tadpole/build/Stonefish/CMakeFiles/install/local.dir
+/home/faos/tadpole/build/Stonefish/CMakeFiles/install/strip.dir
