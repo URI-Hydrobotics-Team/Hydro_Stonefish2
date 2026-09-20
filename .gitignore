@@ -1,5 +1,4 @@
 build/
 install/
 log/
-src/stonefish/
-src/stonefish_ros2/
+dependancies/stonefish_ros2/
