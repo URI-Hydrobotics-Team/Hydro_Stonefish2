@@ -1,6 +1,0 @@
-source;share/Stonefish/hook/cmake_prefix_path.ps1
-source;share/Stonefish/hook/cmake_prefix_path.dsv
-source;share/Stonefish/hook/cmake_prefix_path.sh
-source;share/Stonefish/hook/ld_library_path_lib.ps1
-source;share/Stonefish/hook/ld_library_path_lib.dsv
-source;share/Stonefish/hook/ld_library_path_lib.sh
